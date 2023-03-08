@@ -1,0 +1,12 @@
+title: vizstorian
+description: >-
+  Interactive timeline visualizations.
+
+twitter_username: dancherp
+github_username: dan-zheng
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed
